@@ -32,17 +32,6 @@ It uses:
 
 ---
 
-## File Structure
-project/
-├── app.py # Streamlit app interface
-├── emotion_utils.py # Hugging Face emotion detection
-├── spotify_utils.py # Spotify search + audio filtering
-├── requirements.txt # Python dependencies
-└── .streamlit/
-└── secrets.toml # Spotify API credentials
-
----
-
 ## Requirements
 - Python 3.8+
 - Spotify Developer credentials (Client ID & Secret)
